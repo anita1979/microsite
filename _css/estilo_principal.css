@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+.navegacao {
+	background-color: #666;
+	
+}
+/*.caixa_1{
+	width: 25%;
+	padding: 2%;
+	float: left;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}*/
+#caixa_1 {
+	background-color: #CCC;
+	width: 25%;
+	padding: 2%;
+	float: left;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+#caixa_2 {
+	background-color: #CCC;
+	width: 25%;
+	padding: 2%;
+	float: left;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-right: 6.5%;
+	margin-left: 6.5%;
+}
+#caixa_3 {
+	background-color: #CCC;
+	width: 25%;
+	padding: 2%;
+	float: left;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.rodape {
+	background-color: #666;
+	color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+/*footer {    
+	 background-color: grey;    
+	 color: white;     
+	 font-size: 0.75rem;    
+	 min-height: 0.75rem;    
+	 justify-content: space-around;    
+	 padding: 0 1rem; } */
